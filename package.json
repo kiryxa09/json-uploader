@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@bitrix/cli": "^3.2.5",
+    "axios": "^1.6.3",
+    "fs": "^0.0.1-security"
+  }
+}
